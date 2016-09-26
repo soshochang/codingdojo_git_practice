@@ -1,4 +1,4 @@
 # codingdojo_git_practice
 Coding Dojo group activity git practice
 
-add your name as a <li>
+add your name as a \<li>
